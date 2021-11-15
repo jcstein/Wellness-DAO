@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
         <p className={styles.description}>
-         We are a DAO dedicated to normalizing Mental Health Care and providing Resources as a Public Good
+         We are a DAO dedicated to normalizing Mental Health Care and providing Resources as a{' '}<code className={styles.code}>Public Good</code>
         </p>
 
         <a href="https://checkpoint.carrd.co/" className={styles.card}>
