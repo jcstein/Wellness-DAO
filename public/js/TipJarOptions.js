@@ -1,0 +1,5 @@
+window.TipJarOptions = {
+    RECEIVER_ADDRESS: '0x186Ea56F0a40c5593A697B3E804968b8C5920Ff3',
+    COLOR_SCHEME: 'light',
+    PLACEMENT: 'left'
+  };

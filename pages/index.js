@@ -9,6 +9,8 @@ export default function Home() {
         <title>Wellness DAO</title>
         <meta name="description" content="A DAO dedicated to providing and normalizing Mental Health Care as a Public Good" />
         <link rel="icon" href="/favicon.ico" />
+        <script type="text/javascript" src="/js/TipJarOptions.js" async />
+        <script type="text/javascript" src="/js/tipjar.js" async />
       </Head>
 
       <main className={styles.main}>
@@ -16,12 +18,12 @@ export default function Home() {
           Welcome to <a href="https://wellnessdao.xyz">Wellness DAO!</a>
         </h1>
 
+        <div className={styles.grid}>
         <p className={styles.description}>
           We are Normalizing and Publicizing{' '}
-          <code className={styles.code}>Healthcare/Mental.js</code>
+          <code className={styles.code}>Healthcare/Mental.js</code>{' '}as a Public Good.
         </p>
 
-        <div className={styles.grid}>
         <a href="https://checkpoint.carrd.co/" className={styles.card}>
           <h2>Get Help Now &rarr;</h2>
           <p>Access free resources today.</p>
@@ -49,7 +51,17 @@ export default function Home() {
         <h2>Twitter &rarr;</h2>
         <p>Follow us for daily updates and motivations.</p>
           </a>
-  
+          
+          <a href="https://discord.gg/EsrJ3JVN" className={styles.card}>
+        <h2>Discord &rarr;</h2>
+        <p>Join our server.</p>
+          </a>
+
+          {/* <a href="https://discord.gg/EsrJ3JVN" className={styles.card}>
+        <h2>Donate &rarr;</h2>
+        <p>Fill our Juicebox.</p>
+          </a> */}
+        
         </div>
       </main>
 
