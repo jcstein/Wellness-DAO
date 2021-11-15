@@ -28,7 +28,7 @@ export default function Home() {
           </a>
 
           <a href="https://checkpoint.carrd.co/" className={styles.card}>
-            <h2>Learn &rarr;</h2>
+            <h2>Get Help Now &rarr;</h2>
             <p>Access free resources today.</p>
           </a>
 
