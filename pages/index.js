@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Wellness DAO</title>
-        <meta name="description" content="A DAO dedicated to normalizing Mental Health Care and providing Resources as a Public Good" />
+        <meta name="description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good" />
         <link rel="icon" href="/favicon.ico" />
         <script type="text/javascript" src="/js/TipJarOptions.js" async />
         <script type="text/javascript" src="/js/tipjar.js" async />
@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
         <p className={styles.description}>
-         We are a DAO dedicated to normalizing Mental Health Care and providing Resources as a{' '}<code className={styles.code}>Public Good</code>
+         We are a DAO dedicated to normalizing Mental-Health Care and providing Resources as a{' '}<code className={styles.code}>Public Good</code>
         </p>
 
         <a href="https://checkpoint.carrd.co/" className={styles.card}>
