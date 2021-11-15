@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className={styles.grid}>
         <p className={styles.description}>
-         We are a DAO dedicated to normalizing Mental-Health Care and providing Resources as a{' '}<code className={styles.code}>Public Good</code>
+         We are building a DAO dedicated to normalizing Mental-Health Care and providing Resources as a{' '}<code className={styles.code}>Public Good</code>
         </p>
 
         <a href="https://checkpoint.carrd.co/" className={styles.card}>
@@ -35,27 +35,22 @@ export default function Home() {
         >
         <h2>Contact Us &rarr;</h2>
         <p> 
-          Contact the Wellness DAO instantly and anonymously.
+          Message the Wellness DAO instantly and anonymously.
         </p>
         </a>
 
         <a
-         href="https://t.me/joinchat/VVzBgaurKJUyMjZh"
+         href="https://discord.gg/EsrJ3JVN"
          className={styles.card}
          >
         <h2>Join Us &rarr;</h2>
-        <p>Discover more in our Telegram. Free. Anonymous.</p>
+        <p>Discover more Resources in our Discord server.</p>
         </a>
 
         <a href="https://twitter.com/wellness_dao" className={styles.card}>
         <h2>Twitter &rarr;</h2>
         <p>Follow us for daily updates and motivations.</p>
-          </a>
-          
-          <a href="https://discord.gg/EsrJ3JVN" className={styles.card}>
-        <h2>Discord &rarr;</h2>
-        <p>Join our server.</p>
-          </a>
+        </a>
 
           {/* <a href="https://discord.gg/EsrJ3JVN" className={styles.card}>
         <h2>Donate &rarr;</h2>

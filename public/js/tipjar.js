@@ -15,7 +15,7 @@ const GLOBALS = {
     senderAddress: null,
   };
   
-  let etherem;
+  let ethereum;
   
   const connectWallet = async () => {
     try {
