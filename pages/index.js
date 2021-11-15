@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          We're normalizing{' '}
+          We are normalizing{' '}
           <code className={styles.code}>Healthcare/Mental.js</code>
         </p>
 
