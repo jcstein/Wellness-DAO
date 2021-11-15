@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          We are normalizing{' '}
+          We are Normalizing and Publicizing{' '}
           <code className={styles.code}>Healthcare/Mental.js</code>
         </p>
 
@@ -26,6 +26,7 @@ export default function Home() {
           <h2>Get Help Now &rarr;</h2>
           <p>Access free resources today.</p>
         </a>
+
         <a
           href="https://t.me/joinchat/VVzBgaurKJUyMjZh"
           className={styles.card}
@@ -34,6 +35,7 @@ export default function Home() {
         <p> 
           Contact the Wellness DAO instantly and anonymously.
         </p>
+        </a>
 
         <a
          href="https://t.me/joinchat/VVzBgaurKJUyMjZh"
@@ -47,7 +49,7 @@ export default function Home() {
         <h2>Twitter &rarr;</h2>
         <p>Follow us for daily updates and motivations.</p>
           </a>
-          </a>
+  
         </div>
       </main>
 
