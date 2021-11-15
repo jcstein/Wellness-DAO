@@ -11,6 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <script type="text/javascript" src="/js/TipJarOptions.js" async />
         <script type="text/javascript" src="/js/tipjar.js" async />
+        <script defer data-domain="wellnessdao.xyz" src="https://plausible.io/js/plausible.js"></script>
       </Head>
 
       <main className={styles.main}>
