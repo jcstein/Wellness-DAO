@@ -9,8 +9,8 @@ export default function Home() {
         <title>Wellness DAO</title>
         <meta name="description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good" />
         <link rel="icon" href="/favicon.ico" />
-        {/* <script type="text/javascript" src="/js/TipJarOptions.js" async />
-        <script type="text/javascript" src="/js/tipjar.js" async /> */}
+        <script type="text/javascript" src="/js/TipJarOptions.js" async />
+        <script type="text/javascript" src="/js/tipjar.js" async />
         <script defer data-domain="wellnessdao.xyz" src="https://plausible.io/js/plausible.js"></script>
       </Head>
 
