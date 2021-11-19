@@ -29,7 +29,7 @@ export default function Home() {
           <p>Access free resources today.</p>
         </a>
 
-        <a
+        {/* <a
           href="https://t.me/joinchat/VVzBgaurKJUyMjZh"
           className={styles.card}
         >
@@ -37,7 +37,7 @@ export default function Home() {
         <p> 
           Message the Wellness DAO instantly and anonymously.
         </p>
-        </a>
+        </a> */}
 
         <a
          href="https://discord.gg/EsrJ3JVN"
