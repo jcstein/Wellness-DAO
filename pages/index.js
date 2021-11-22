@@ -16,7 +16,6 @@ export default function Home() {
         <meta property="og:description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good">
         <meta property="og:image" content="https://raw.githubusercontent.com/jcstein/jpegs/main/WellnessDAO_Card.png">
     
-        <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
         <meta property="twitter:url" content="https://wellnessdao.xyz">
         <meta property="twitter:title" content="Wellness DAO">
