@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="title" content="Wellness DAO" />
         <meta name="description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good" />
         
-        <meta property="og:type" content="website" />
+        {/* <meta property="og:type" content="website" />
         <meta property="og:url" content="https://wellnessdao.xyz" />
         <meta property="og:title" content="Wellness DAO">
         <meta property="og:description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good" />
@@ -21,7 +21,7 @@ export default function Home() {
         <meta property="twitter:title" content="Wellness DAO" />
         <meta property="twitter:description" content="A DAO dedicated to normalizing Mental-Health Care and providing Resources as a Public Good" />
         <meta property="twitter:image"
-          content="https://raw.githubusercontent.com/jcstein/jpegs/main/WellnessDAO_Card.png" />
+          content="https://raw.githubusercontent.com/jcstein/jpegs/main/WellnessDAO_Card.png" /> */}
 
         <link rel="icon" href="/favicon.ico" />
         {/* <script type="text/javascript" src="/js/TipJarOptions.js" async />
